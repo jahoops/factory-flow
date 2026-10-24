@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FactoryFlow.Core/FactoryFlow.Core.csproj" />
+  </Folder>
+  <Folder Name="/src/FactoryFlow.Godot/">
+    <Project Path="src/FactoryFlow.Godot/FactoryFlow.csproj">
+      <BuildType Project="Debug" />
+    </Project>
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FactoryFlow.Core.Tests/FactoryFlow.Core.Tests.csproj" />
+  </Folder>
+</Solution>
